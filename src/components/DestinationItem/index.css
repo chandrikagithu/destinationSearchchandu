@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.place-card-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 290px;
+  height: 190px;
+  margin-right: 20px;
+}
+.place-name {
+  color: #252627;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Open Sans';
+  margin-bottom: 35px;
+}
